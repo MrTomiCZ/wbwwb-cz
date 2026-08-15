@@ -3,104 +3,104 @@
 ///////////////////////////////////
 var textStrings_EN = {
     // Act 1
-    "niceHat"              : "OOH NICE HAT"                                          ,
-    "outtaHere"            : "yeah git on outta here"                                ,
-    "getARoom"             : "GROSS, GO GET A ROOM"                                  ,
-    "notCoolAnymore"       : "nvm hats aren't cool anymore"                          ,
-    "tvOnTv"               : "A TV... ON TV!"                                        ,
-    "cricky"               : "LIL' CRICKY <3"                                        ,
-    "tooManyCrickets"      : "okay that's too many crickets"                         ,
-    "normalPeep"           : "just a normal peep"                                    ,
-    "normalPeeps"          : "just some normal peeps"                                ,
-    "wowNothing"           : "WOWWEE, IT'S NOTHING"                                  ,
+    "niceHat"              : "aaaa hezka cepicka"                                          ,
+    "outtaHere"            : "jo vypadnete odsad"                                ,
+    "getARoom"             : "FUJ, sezente si pokoj"                                  ,
+    "notCoolAnymore"       : "tak nic cepicky uz nejsou kul"                          ,
+    "tvOnTv"               : "televize... na televizi!"                                        ,
+    "cricky"               : "tutununu cvrcek <3"                                        ,
+    "tooManyCrickets"      : "okej to je moc cvrcku"                         ,
+    "normalPeep"           : "jenom normalni clovicek"                                    ,
+    "normalPeeps"          : "jenom nejaky normalni clovicci"                                ,
+    "wowNothing"           : "SUPER, NIC"                                  ,
     
     // Act 2
-    "crazySquareAttacks"   : "CRAZED SQUARE ATTACKS"                                 ,
-    "justMissed"           : "oooooh just missed it"                                 ,
-    "somethingInteresting" : "(ya gotta catch 'em doing *something* interesting...)" ,
-    "whoIsScreaming"       : "(ya gotta catch who's screaming at 'em)"               ,
-    "circleFearsSquares"   : "CIRCLE FEARS SQUARES"                                  ,
-    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
-    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
-    "squaresSnubCircles"   : "SQUARES SNUB CIRCLES"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "EVERYONE HATES EVERYONE!!1!"                           ,
-    "almostEveryoneHates"  : "ALMOST EVERYONE HATES EVERYONE..."                     ,
-    "squaresHateCircles"   : "SQUARES HATE CIRCLES"                                  ,
-    "circlesHateSquares"   : "CIRCLES HATE SQUARES"                                  ,
-    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "what are these nerds doing now"                        ,
-    "schockedPeep"         : "why's this peep shocked?"                              ,
-    "whatever"             : "whatever"                                              ,
+    "crazySquareAttacks"   : "SILENY CTVEREC UTOCI"                                 ,
+    "justMissed"           : "ooooou nestihl"                                 ,
+    "somethingInteresting" : "(musis je chytit delat *neco* zajimavyho...)" ,
+    "whoIsScreaming"       : "(musis chytit toho co na ne(j) rve)"               ,
+    "circleFearsSquares"   : "KOLECKO SE BOJI CTVERCE"                                  ,
+    "whoScaresThem"        : "(musis taky chytit *kdo* je vystrasil)"         ,
+    "areTheyScared"        : "(musis je chytit kdyz *jsou* vystraseny ctvercem)"       , // not used
+    "squaresSnubCircles"   : "CTVERCE URAZEJI KOLECKA"                                  ,
+    "areTheySnubbed"       : "(musis je chytit *kdyz* urazi kolecko)"        , // not used
+    "everyoneHates"        : "VSICHNI NENAVIDI VSECHNY!!1!"                           ,
+    "almostEveryoneHates"  : "SKORO VSICHNI NENAVIDI VSECHNY..."                     ,
+    "squaresHateCircles"   : "CTVERCE NENAVIDI KOLECKA"                                  ,
+    "circlesHateSquares"   : "KOLECKA NENAVIDI CTVERCE"                                  ,
+    "areTheyYelling"       : "(musis je chytit *rvouci* na ostatni)"              , // not used
+    "nerdsNow"             : "co delaji tyhle nerdi ted"                        ,
+    "schockedPeep"         : "proc je tenhle clovicek sokovan?"                              ,
+    "whatever"             : "cokoli"                                              ,
     
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "hats ain't cool no more, haven't you heard?"           ,
-    "beScared"             : "BE SCARED. BE ANGRY."                                  ,
+    "coolNoMore"           : "cepicky uz nejsou kul, neslysels?"           ,
+    "beScared"             : "BUD VYSTRASENY. BUD NASTVANY."                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "who tunes in to watch *people get along?*",
-       "peace is boring. violence goes viral."    ,
+       "kdo zapne telku aby se dival na *lidi vychazet?*",
+       "klid je nudny. nasili je viralni."    ,
        //"peace is boring. conflict gets clicks." ,
-       "and every story needs a conflict, so..."  ,
+       "a kazdy pribeh potrebuje konflikt, takze..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "GIVE THE AUDIENCE WHAT THEY WANT."
+       "DEJ PUBLIKU TO CO CHTEJI."
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
-    "playingTime"        : "playing time: 5 minutes" ,
-    "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
+    "playingTime"        : "cas hrani: 5 minut" ,
+    "warning"            : "varovani: tento program\nobsahuje sceny snobstvi,\nnastvani & masove vrazdy.\ndoporuceno uvazeni publika." ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" ,
+    "pointAndClick"      : "NAJED & KLIKNI" ,
     
     // (chyron3.png)
-    "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
+    "chyronNothing"      : "SUPER, *NIC*" ,
     
     // (credits0001.png)
-    "createdBy"          : "created by" ,
+    "createdBy"          : "vytvoril(a)" ,
     "NickyCase"          : "Nicky Case" ,
     
     // (credits0002.png)
-    "manyThanks"         : "many thanks to my playtesters:" ,
+    "manyThanks"         : "velice dekuji playtesterum:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "and to my patreon supporters:" ,
+    "patreonSupporters"  : "a mym patreon uzivatelum:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "and last but not least," ,
+    "lastButNotLeast"    : "a v neposledni rade," ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "thank YOU for playing!" ,
+    "thankYouForPlaying" : "dekuji TOBE za hrani!" ,
     
     // (preload_play.png)
-    "playButton"         : "PLAY" ,
+    "playButton"         : "HRAT" ,
     
     // (end_button.png) Post Credits
-    "otherWorkButton"    : "see my other work" ,
-    "buyCoffeeButton"    : "buy me a coffee" ,
-    "replayButton"       : "replay this mess" ,
+    "otherWorkButton"    : "podivat se na moji ostatni praci" ,
+    "buyCoffeeButton"    : "kup mi kafe" ,
+    "replayButton"       : "hrat tenhle bordel zase" ,
     
     // (logo.png) Post Credits
-    "logoWBWWB"          : "SHARE THE PAIN:" ,
+    "logoWBWWB"          : "SDILEJ TUHLE BOLEST:" ,
     
     // (end_prototype.png)
-    "endOfPrototype"     : "END OF PROTOTYPE" ,
-    "toBeContinued"      : "(to be continued!)" ,
+    "endOfPrototype"     : "KONEC PROTOTYPU" ,
+    "toBeContinued"      : "(pokracovani nabude!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "We become what we behold." ,
-    "WSOTATOTSU"         : "We shape our tools and then our tools shape us." ,
+    "WBWWB"              : "Stavame se tim co vidime." ,
+    "WSOTATOTSU"         : "My si formujeme nastroje a pak nase nastroje formuji nas." ,
     
     // (quote0003.png)
     "MarshallMcLuhan"    : "Marshall McLuhan" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(misattributed)" ,
+    "misatrributed"      : "(nespravne pripisovano)" ,
 };
 
 var textStrings_CN = {
